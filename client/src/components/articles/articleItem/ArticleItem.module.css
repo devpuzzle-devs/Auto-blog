@@ -1,0 +1,28 @@
+.ArticleItemGrid {
+    width: 100%;
+    margin-left: 0 !important;
+    /*background-color: #FFFCF5 !important;*/
+    /*opacity: 1 !important;*/
+    /*background: rgba(255, 255, 255, 0.8);*/
+    padding: 20px !important;
+    border: 1px solid #9f9fa6;
+    /*background-image: url('../../../assets/img/opacity.jpg') !important;*/
+    /*background-image: url('../../../assets/img/fog-low.png')  !important;*/
+    /*-webkit-box-shadow: inset 0px 0px 55px -27px rgba(0,0,0,0.98);*/
+    /*-moz-box-shadow: inset 0px 0px 55px -27px rgba(0,0,0,0.98);*/
+    /*box-shadow: inset 0px 0px 55px -27px rgba(0,0,0,0.98);*/
+}
+
+.ArticleItemImage {
+    margin-left: 20px;
+    opacity: 1 !important;
+}
+
+/*style={{ whiteSpace: 'pre-wrap',padding:'10px',marginLeft:'20px'}}*/
+.ArticleItemPre {
+    font: bold 130% serif;
+    white-space: pre-wrap;
+    padding: 10px;
+    margin-left: 20px;
+
+}

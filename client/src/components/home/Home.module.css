@@ -1,0 +1,13 @@
+.HomeContainer {
+    width: 200% !important;
+    padding: 20px !important;
+
+
+}
+
+.HomeSegmentContainer {
+    border: 1px solid #9f9fa6 !important;
+    /*opacity: .3;*/
+    /*background-image: url('../../assets/img/opacity.jpg') !important;*/
+    background: rgba(255, 255, 255, 0.9)!important;
+}
